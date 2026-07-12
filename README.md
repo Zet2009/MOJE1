@@ -1,6 +1,6 @@
 
-Nuoroda: https://zet2009.github.io/MOJE1/ru.m3u
-arba : https://raw.githubusercontent.com/Zet2009/MOJE1/gh-pages/ru.m3u
+Nuoroda: https://zet2009.github.io/MOJE1/1.m3u
+arba : https://raw.githubusercontent.com/Zet2009/MOJE1/gh-pages/1.m3u
 
 # IPTVru
 Открытый IPTV плейлист с каналами на русском языке. Составляются преимущественно для граждан РФ и Беларуси.
